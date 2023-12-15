@@ -10,6 +10,7 @@ export function Counter() {
   return (
     <div>
       <div className='text-center my-4'>
+        <h2>click button to see the magic</h2>
         <button
           aria-label='Increment value'
           className='btn btn-success'
