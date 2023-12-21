@@ -10,8 +10,7 @@ export function Counter() {
   return (
     <div>
       <div className='text-center my-4'>
-        <h2>click button to see the magic</h2>
-        <h3>hi</h3>
+        <h3>Counter using redux</h3>
         <button
           aria-label='Increment value'
           className='btn btn-success'
